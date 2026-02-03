@@ -2,10 +2,12 @@
 
 ## Project Description
 
-## Hardware Components 
+## System Architecture
+  ### Inputs
 
-## Software Components
+  ### Outputs
 
-## Inputs
+  ### Hardware Components
 
-## Outputs
+  ### Software Components
+
